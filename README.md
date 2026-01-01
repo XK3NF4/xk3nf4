@@ -1,5 +1,5 @@
 # `PS C:\Users\xk3nf4> echo $env:username`
-Hey nerd, I’m an enthusiast of adversary emulation and malware development. I turned my hobby into my job.
+What's up nerd, I’m an enthusiast of adversary emulation and malware development. I turned my hobby into my job.
 
 <img src="./gif.gif" width="100%" alt="estamos gdbbbbbbbbb">
 
