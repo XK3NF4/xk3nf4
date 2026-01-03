@@ -14,9 +14,9 @@ What's up nerd? I’m an enthusiast of adversary emulation and malware developme
 ⮞ Offensive Tool Development
 
 ⮞ Reverse Engineering and x86-64 Exploitation
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xk3nf4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="wingdb"  />
-</div>
+</div> -->
 
 ###
 
