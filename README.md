@@ -37,3 +37,4 @@ What's up nerd? I’m an enthusiast of adversary emulation and malware developme
 
 ###
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xk3nf4)
