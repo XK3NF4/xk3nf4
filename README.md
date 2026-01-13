@@ -16,7 +16,7 @@ What's up nerd? I’m an enthusiast of adversary emulation and malware developme
 ⮞ Reverse Engineering and x86-64 Exploitation
 
 
-###
+
 
 <div align="left">
    <a href="https://t.me/xk3nf4" target="_blank">
@@ -33,5 +33,4 @@ What's up nerd? I’m an enthusiast of adversary emulation and malware developme
 
 </div>
 
-###
 
